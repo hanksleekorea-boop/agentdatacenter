@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "project": "에이전트데이터센터",
+    "timestamp": "2026-09-19T15:04:21.035Z",
+    "version": "v3.3"
+  },
+  "engine_A": {
+    "domain_match": [
+      "에이전트 데이터센터",
+      "SaaS",
+      "Aggregator"
+    ],
+    "target_audience": "Global Users, Professionals",
+    "key_features": [
+      "초저지연 액세스",
+      "무제한 확장성",
+      "엔드투엔드 암호화"
+    ],
+    "market_size_estimate": "$10B+",
+    "core_problem_solved": "AI 에이전트들을 위한 빠르고 안전한 데이터 저장소."
+  }
+}
